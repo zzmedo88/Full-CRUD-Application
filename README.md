@@ -1,2 +1,2 @@
 # Full-CRUD-Application
-##Default Creds => admin:admin
+Default Creds => admin:admin
